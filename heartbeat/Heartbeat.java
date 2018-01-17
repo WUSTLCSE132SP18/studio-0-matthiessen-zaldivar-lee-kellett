@@ -9,7 +9,7 @@ public class Heartbeat {
 				System.out.println("Time elapsed: " + time);
 			}
 			catch(InterruptedException e){
-				e.printStackTrace();
+			 	e.printStackTrace();
 			}
 		}
 	}
